@@ -39,7 +39,7 @@ def get_monday():
         {
             'taskName': 'Lunch!',
             'taskHour':  15,
-            'taskMinute': 0
+            'taskMinute': 25
         },
         {
             'taskName': 'Work Again!',
