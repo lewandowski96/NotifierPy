@@ -1,4 +1,4 @@
-## NotifyPy
+## NotifierPy
 
 Runs on Python 3.10
 
